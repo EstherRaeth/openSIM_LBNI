@@ -1,1 +1,15 @@
+The current openSIM software is implemented for the two camera models Andor Zyla and Andor iXon 
+by using the Andor software development kid (SDK3) for LabVIEW. In case you want to use openSIM 
+with one of this Andor cameras and the Andor SDK3, we can provide the respective version on request. 
 
+To make the project more open we are also sharing the complete LabVIEW project of the openSIM 
+interface without the camera specific subVIs. In this way everybody can adapt the software to 
+their own needs such as the integration of a different camera model or the implementation of 
+additional system requirements. 
+--> openSIM_labview_withoutSpecVIcamera_V2.0
+
+We also provide an executable version of the openSIM software. 
+This version cannot be used for actual image acquisition. 
+The purpose of this executable version is to visualize the structure of the 
+interface without the need of having LabVIEW.
+--> openSIM_labview_withoutSpecVIcamera_application_V2.0
