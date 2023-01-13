@@ -1,4 +1,4 @@
-# openSIM_LBNI
+![logo_openSIM_2_web](https://user-images.githubusercontent.com/86475520/212356701-c132e995-8311-4163-8fa1-5fb2befc1db8.jpg)
 
 ## an open-source structured illumination add-on for fluorescence microscopes
 
@@ -13,6 +13,6 @@ A detailed documentation with all the information to build and use the openSIM i
 **https://opensim.notion.site/openSIM-e0279e4c833b4c2ba9ffdb3c025799c6**
 
 
-![logo_openSIM_2_web](https://user-images.githubusercontent.com/86475520/212356701-c132e995-8311-4163-8fa1-5fb2befc1db8.jpg)
 
+![complete_system_plus_interfaceBox](https://user-images.githubusercontent.com/86475520/212357468-83f90d43-9c7b-406f-bd18-69fa4d78f1af.jpeg)
 
