@@ -13,3 +13,6 @@ A detailed documentation with all the information to build and use the openSIM i
 **https://opensim.notion.site/openSIM-e0279e4c833b4c2ba9ffdb3c025799c6**
 
 
+![logo_openSIM_2_web](https://user-images.githubusercontent.com/86475520/212356701-c132e995-8311-4163-8fa1-5fb2befc1db8.jpg)
+
+
