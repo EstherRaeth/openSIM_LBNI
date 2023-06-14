@@ -10,7 +10,7 @@ The **open source hardware project openSIM** is an **add-on** designed at the *L
 
 A detailed documentation with all the information to build and use the openSIM is provided on our openSIM webpage. 
 
-**https://opensim.notion.site/openSIM-e0279e4c833b4c2ba9ffdb3c025799c6**
+**https://opensim.notion.site/**
 
 
 
