@@ -1,17 +1,17 @@
-Navigating through the openSIM repository:
+## Navigating through the openSIM repository:
 
 Below you can find the folder structure and the file content. 
 Each folder contains README files with further information about the corresponding file. 
 
-CAD
+**CAD**
 - 3D printing
 - laser cutting
 - machining
 - Solidwork files
 
-electronics
+**electronics**
 - PCB design
 
-software
+**software**
 - image acquisition
 - image processing
