@@ -8,11 +8,12 @@ The **open source hardware project openSIM** is an **add-on** designed at the *L
 
 
 
-A detailed documentation with all the information to build and use the openSIM is provided on our openSIM webpage. 
 
+All the files that need to be downloaded in order to assemble and operate the openSIM can be found in this repository. 
+More information about the structure of this repository can be found in the README file in the download folder. 
+
+A detailed documentation with all the information to build and use the openSIM is provided on our openSIM webpage: 
 **https://opensim.notion.site/**
-
-
 
 ![complete_system_plus_interfaceBox](https://user-images.githubusercontent.com/86475520/212357468-83f90d43-9c7b-406f-bd18-69fa4d78f1af.jpeg)
 
