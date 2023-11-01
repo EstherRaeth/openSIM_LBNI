@@ -1,0 +1,35 @@
+Partlist
+
+Exported from openSIM_interconenctBoard_20200530.brd at 5/30/2020 7:35 PM
+
+EAGLE Version 9.5.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part       Value          Package      Library       Position (mil)        Orientation
+
+5V         PTR1PAD1-20    P1-20        testpad       (225 0)               R0
+12V        PTR1PAD1-20    P1-20        testpad       (425 0)               R0
+C1         100nF          C050-025X075 rcl           (725 275)             R270
+C3         10uF           E2,5-6E      rcl           (975 225)             R270
+DSUB_CONN                 F15V         con-subd      (-375 875)            R270
+FAN        22-23-2021     22-23-2021   con-molex     (1300 250)            R0
+GND        PTR1PAD1-13Y   P1-13Y       testpad       (25 0)                R0
+IC1        74AC00N        DIL14        74xx-eu       (1000 1200)           R180
+INT        PTR1PAD1-20    P1-20        testpad       (475 1600)            R0
+LED_BLUE   22-23-2041     22-23-2041   con-molex     (1775 1600)           R0
+LED_GREEN  22-23-2041     22-23-2041   con-molex     (1300 1600)           R0
+LED_PWM    PTR1PAD1-20    P1-20        testpad       (1700 1325)           R0
+LED_RED    22-23-2041     22-23-2041   con-molex     (825 1600)            R0
+R_FAN      5k             0207/10      eagle-ltspice (1450 700)            R90
+R_PD_B     50k            0207/10      eagle-ltspice (275 350)             R180
+R_PD_G     50k            0207/10      eagle-ltspice (275 550)             R180
+R_PD_R     50k            0207/10      eagle-ltspice (275 775)             R180
+R_PD_SLM   5k             0207/10      eagle-ltspice (1850 1175)           R180
+R_PUP_T    10k            0207/10      eagle-ltspice (250 1175)            R0
+R_PU_PWM   10k            0207/10      eagle-ltspice (250 1350)            R0
+R_PU_S     10k            0207/10      eagle-ltspice (250 1025)            R0
+R_TH       5k             0207/10      eagle-ltspice (1850 275)            R90
+SLM        22-23-2041     22-23-2041   con-molex     (1850 750)            R90
+T1         2N4923         TO126        transistor    (1050 725)            R90
+THERMISTOR 22-23-2021     22-23-2021   con-molex     (1550 250)            R0
