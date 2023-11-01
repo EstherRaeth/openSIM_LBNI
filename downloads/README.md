@@ -15,3 +15,8 @@ Each folder contains README files with further information about the correspondi
 **software**
 - image acquisition
 - image processing
+
+**example datasets**
+- 100nm beads
+- fixed tubulin
+- zebrafish embryo
