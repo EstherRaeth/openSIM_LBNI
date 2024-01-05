@@ -11,7 +11,7 @@ The **open source hardware project openSIM** is an **add-on** designed at the *L
 
 
 **Here you can find a schematic of the general structure of the openSIM documentation**
-<img width="537" alt="structure_doc" src="https://github.com/EstherRaeth/openSIM_LBNI/assets/86475520/5aeb2fef-0ead-4dfd-b1b2-e919de6c78e2">
+<img width="797" alt="overview_documentation" src="https://github.com/EstherRaeth/openSIM_LBNI/assets/86475520/f833172e-2d4c-440c-aff6-8799e7cade40">
 
 
 A detailed documentation with all the information to build and use the openSIM is provided on our openSIM webpage: 
